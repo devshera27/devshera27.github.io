@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**devshera27/devshera27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shamsher Singh 🎓, a passionate first-semester Computer Science and Technology student with a keen interest in coding, web development, and artificial intelligence. 🌐🤖
 
-Here are some ideas to get you started:
+ 
+*Exploring the vast world of technology and eager to learn new skills to build innovative and impactful projects.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in tech has just begun, and I'm excited to contribute to open-source projects and collaborate with the community. 🌟
+
+## Interests:
+- 👨‍💻 Coding and Software Development
+- 🌐 Web Development and Design
+- 🤖 Artificial Intelligence and Machine Learning
+
+
+
+*Always eager to learn and grow, and looking forward to connecting with fellow developers and tech enthusiasts.*
+
+Let's build something amazing together! 🚀
