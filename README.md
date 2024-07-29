@@ -4,7 +4,7 @@ My name is Shamsher Singh. I am 18 years old and I am pursuing my B.Tech in Comp
 
 ## Hobby
 
-My hobby is gamingandt exploring and I love to cook in my free time. 
+My hobby is gaming and exploring and I love to cook in my free time. 
 
 ## Marks obtained in sen. sec. exam
 
