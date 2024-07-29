@@ -1,4 +1,4 @@
-# GNDEC Ludhiana Induction Program Diary
+# GNDEC Ludhiana Induction Program
 
 ## Day 1
 **Description:** On the first day of our college, we first visited Gurudwara Sahib and got a chance to know a lot about the college. We learned about the contributions of our college in various fields of our country. We were lucky to get a chance to listen to dignitaries invited by the college. We visited the auditorium and first listened to the in-charge of TAC and Director of STEP GNE, Dr. Arvind Dhingra. After that, we listened to the Dean of Student Welfare, Dr. Parminder Singh, and lastly interacted with CoE, Dr. H.S. Rai. We had a memorable day at the college.
