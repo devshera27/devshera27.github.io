@@ -1,6 +1,6 @@
 # Portfolio
 
-My name is Shamsher Singh. I am 18 years old and I am pursuing my B.Tech in Computer Science Engineering at Guru Nanak Dev Engineering College, Ludhiana. I have completed my secondary education from Teja Singh Sutantar Memorial Senior Secondary School, Ludhiana.
+My name is Shamsher Singh. I am 18 years old and I am pursuing my B.Tech in Computer Science Engineering at Guru Nanak Dev Engineering College, Ludhiana. I have completed my secondary education from Govt sen. sec. school Hajipur, Hoshiarpur. 
 
 ## Hobby
 
